@@ -9,6 +9,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi vel nisi l
 ```
 print
 ```
+## Create Folders
+data
+neo4j/conf
+neo4j/data
+neo4j/import
+neo4j/logs
+neo4j/plugins
+neo4j/queries
+
 
 ## Running
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi vel nisi laoreet consequat eget quis purus. Maecenas a nibh sit amet orci sollicitudin cursus
